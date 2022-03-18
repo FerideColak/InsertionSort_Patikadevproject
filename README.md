@@ -1,6 +1,6 @@
 # InsertionSort_Patikadevproject
 
-##1.ÖRNEK
+## 1.ÖRNEK
 
 [22,27,16,2,18,6]
 
@@ -26,7 +26,7 @@ Best Case: Aradığımız sayının dizinin en başında olması --> O(n)
 
 4. adımda sıralaması değişeceği için average case’dir.
 
-##2.ÖRNEK
+## 2.ÖRNEK
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort’a göre ilk 4 adımını yazınız.
 
